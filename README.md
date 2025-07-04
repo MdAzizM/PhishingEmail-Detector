@@ -1,2 +1,13 @@
-# PhishingEmail-Detector
-Phishing Email Detector using machine learning to classify emails as phishing or legitimate. Implements Naive Bayes and Logistic Regression with data cleaning, training, evaluation, and model saving for easy deployment. 
+# Phishing Email Detector
+
+A machine learning project to detect phishing emails using Naive Bayes and Logistic Regression models.
+
+
+
+## Setup
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/yourusername/phishing-detector.git
+   cd phishing-detector
